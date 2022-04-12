@@ -1,6 +1,2 @@
-time
-os
 pyrogram
-Client
-filters
-FloodWait
+tgcrypto
